@@ -1,0 +1,154 @@
+
+    input[type="button"]
+    {
+    border-radius: 10px;
+    background-color:black;
+    color: white;
+    border-color:#9c9192 ;
+    width:100%;
+    }
+    input[type="text"]
+    {
+    border-radius: 10px;
+    text-align: right;
+    background-color:rgb(209, 196, 196);
+    border-color: rgb(209, 196, 196) ;
+    width:95%;
+    height: 30px;
+    }
+    .center{
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+           } 
+
+    table{
+        border-radius: 10px;
+        background-color:darkgray;
+        height: 300px;
+    
+      }
+
+    #clear{
+     background-color: darkred;
+     color: white;
+         }
+
+    #oppretion{
+    background-color: gray;
+    color: white;
+   
+     }
+
+
+
+
+/* body{
+    box-sizing: border-box;
+    padding:20px;
+    margin: 0;
+    width: 100%;
+}
+
+#calculater{
+    background: #2b3d50;
+    border-radius: 10px;
+    padding: 15px;
+    width: 335px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#screen-container{
+    background: #5E626D;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#screen{
+    background: rgb(239,217,93);
+    border: none;
+    font-family: 'orbitron',sans-serif;
+    font-size: 1.4em;
+    font-weight: 600;
+    height: 23px;
+    overflow: hidden;
+    padding: 12px 15px;
+    width: 265px;
+    z-index: 1;
+}
+
+
+#zero{
+    width: 225px;
+   }
+
+#clear{
+    background: rgb(207,67,67);
+    width: 147px;
+}
+.clear:active{
+    background-color: #E67E22;
+}
+
+
+#equals{
+    height: 89px;
+}
+
+#buttons-container{
+    padding: 30px 0 0 15px;
+}
+
+.l-raw{
+    position: absolute;
+    top: 354px;
+}
+
+.buttons{
+    overflow: hidden;
+}
+.buttons span{
+    background: #5E626D;
+    border-radius:20px;
+    border: none;
+    box-shadow: inset 0px 1px 0px #5E626D,0PX 5px 0px 0px #445566;
+    cursor: pointer;
+    float:left;
+    font-family: 'oswald',sans-serif;
+    width: 70px;
+    height: 40px;
+    margin: 0 7px 11px 0;
+    line-height: 40px;
+    text-align: center;
+}
+
+.buttons span:active{
+    background-color: #4AA3DF;
+    top: 3px;
+    box-shadow: inset  0px 1px 0px #5E626D,0PX 5px 0px 0px #445566;
+}
+
+.operater{
+    font-size: 1.3em;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+       
